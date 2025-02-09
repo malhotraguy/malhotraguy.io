@@ -95,7 +95,7 @@ Architecture:        Microservices | RESTful APIs | Distributed Systems
 ## 🚀 Projects
 
 ### Hackathon Innovations
-- **Personal Virtual Nurse Assistant (VPNA)**
+- **Virtual Personal Nurse Assistant (VPNA)**
   - Architected an AI-powered healthcare assistant using DeepSeek-R1-Distill-Llama-8B model
   - Implemented HIPAA and PIPEDA compliant data storage and processing systems
   - Built vector database using ChromaDB for efficient storage and retrieval of patient interactions
