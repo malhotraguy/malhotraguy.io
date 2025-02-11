@@ -31,7 +31,7 @@ Gold Badge holder on HackerRank for Python excellence and Golang Intermediate le
 ## 💼 Professional Journey
 
 ### Paradox Security Systems | Senior Software Developer
-*October 2023 - Present | Montreal, Canada*
+*February 2022 - Present | Montreal, Canada*
 - Lead and participated in the system design and architecture of high-performance and low latency backend services for MQTT and COAP based IOT systems.
 - Engineered high-performance security monitoring systems using Python & Golang and cloud technologies
 - Transformation from monolithic to microservices architecture
@@ -40,7 +40,7 @@ Gold Badge holder on HackerRank for Python excellence and Golang Intermediate le
 - Established engineering best practices and maintained the team's technical documentation.
 
 ### Morgan Stanley | Software Developer
-*January 2021 - October 2023 | Montreal, Canada*
+*January 2021 - January 2022 | Montreal, Canada*
 - Architected and implemented Python automation scripts for MongoDB and Kafka processes
 - Developed CLI tools for user Management for MongoDB and for Kafka topics and partitions
 - Developed sophisticated health monitoring systems for MongoDB clusters
@@ -48,7 +48,7 @@ Gold Badge holder on HackerRank for Python excellence and Golang Intermediate le
 - Optimized database operations resulting in 40% improved performance and worked with the team to maintain the technical documentation
 
 ### CONCURED | Python Developer
-*March 2019 - December 2020 | Montreal, Canada*
+*February 2019 - January 2021 | Montreal, Canada*
 - Engineered scalable web scraping tools processing 70k+ pages with MongoDB integration
 - Orchestrated microservices deployment on GKE using Docker and Kubernetes
 - Developed and deployed serverless REST APIs on Google Cloud Platform
