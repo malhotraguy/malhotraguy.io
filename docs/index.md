@@ -15,33 +15,37 @@ Passionate hackathon participant (15+ events) with a knack for rapid prototyping
 Combines technical excellence with strategic thinking to deliver robust, scalable solutions.
 Gold Badge holder on HackerRank for Python excellence and Golang Intermediate level.
 ## 🛠 Technical Excellence
-```
-Core Engineering:    Python | Golang | Backend Development | CLI | RESTful APIs | 
-Cloud & DevOps:      Kubernetes | Docker | AWS,GCP | Ansible |ArgoCD | CloudBuild | GitHub Actions 
-Databases:           MongoDB | InfluxDB (time-series database) | Redis | SQLite | Database Design & Optimization
-Frameworks:          Flask | FastAPI | GIN-Gonic | Dash by Plotly | Apache Spark | Hadoop MapReduce
-IOT protocols & Messaging:     VerneMQ MQTT| Kafka | Pub/Sub | COAP | MQTT |
-ML & Analytics:      LLM | Pandas | NumPy | NLTK | Gensim | Plotly | Matplotlib | Machine Learning 
-Security:            OAuth2 | Keycloak | Security Best Practices | JWT | 
-Version Control:     Git | GitHub | GitLab |
-Architecture:        Microservices | RESTful APIs | Distributed Systems
-```
+
+-  *Core Engineering:=*         Python | Golang | Backend Development | CLI | RESTful APIs |
+-  *Cloud & DevOps:=*           Kubernetes | Docker | AWS | GCP | Ansible | ArgoCD | CloudBuild | GitHub Actions 
+-  *Databases:=*                 MongoDB | InfluxDB (time-series database) | Redis | SQLite | Database Design & Optimization |
+-  *Frameworks:=*                Flask | FastAPI | GIN-Gonic | Dash by Plotly | Apache Spark | Hadoop MapReduce |
+-  *IOT protocols & Messaging:=* VerneMQ MQTT | Kafka | Pub/Sub | COAP | MQTT |
+-  *ML & Analytics:=*            LLM | Pandas | NumPy | NLTK | Gensim | Plotly | Matplotlib | Machine Learning |
+-  *Security:=*                  OAuth2 | Keycloak | Security Best Practices | JWT |
+-  *Version Control:=*           Git | GitHub | GitLab |
+-  *Architecture:=*              Microservices | RESTful APIs | Distributed Systems |
+- *Development Practices:=*      CI/CD Pipelines | Agile Methodologies | Scrum | Kanban |
+- *Emerging Technologies:=*      AI Systems Architecture | Machine Learning & LLMs Integration |
 
 ## 💼 Professional Journey
 
 ### Paradox Security Systems | Senior Software Developer
 *October 2023 - Present | Montreal, Canada*
+- Lead and participated in the system design and architecture of high-performance and low latency backend services for MQTT and COAP based IOT systems.
 - Engineered high-performance security monitoring systems using Python & Golang and cloud technologies
 - Transformation from monolithic to microservices architecture
+- Implemented high load availability and fault tolerance services using Kubernetes and Golang Goroutines
 - Implemented automated testing and CI/CD pipelines using Ansible and ArgoCD
 - Established engineering best practices and maintained the team's technical documentation.
 
 ### Morgan Stanley | Software Developer
 *January 2021 - October 2023 | Montreal, Canada*
 - Architected and implemented Python automation scripts for MongoDB and Kafka processes
+- Developed CLI tools for user Management for MongoDB and for Kafka topics and partitions
 - Developed sophisticated health monitoring systems for MongoDB clusters
-- Built secure authentication modules for GUI dashboards using Dash by Plotly
-- Optimized database operations resulting in 40% improved performance
+- Built secure authenticated and monitoring GUI dashboards using Dash by Plotly
+- Optimized database operations resulting in 40% improved performance and worked with the team to maintain the technical documentation
 
 ### CONCURED | Python Developer
 *March 2019 - December 2020 | Montreal, Canada*
